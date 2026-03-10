@@ -1,3 +1,4 @@
+#app simples pra registro de feedbacks e plano de carreira do time
 import os
 from datetime import datetime
 import uuid

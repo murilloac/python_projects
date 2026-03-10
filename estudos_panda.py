@@ -1,3 +1,5 @@
+#instruções de panda para leitura de arquivos JSON
+
 import pandas as pd
 import os
 import json
