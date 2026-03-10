@@ -1,0 +1,42 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos temporarios
+*.log
+*.tmp
+
+# Configuracoes de ambiente
+.env
+.env.*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configuracoes de IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testes
+.coverage
+htmlcov/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
